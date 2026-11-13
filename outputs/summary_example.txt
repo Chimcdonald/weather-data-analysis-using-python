@@ -1,0 +1,17 @@
+=== Weather Data Analysis Summary (Example) ===
+Location      : Delhi
+Period        : Last 365 days
+
+Temperature (°C):
+  Average     : ~26.4
+  Maximum     : ~42.1
+  Minimum     : ~7.8
+
+Precipitation (mm):
+  Total       : ~800-900
+  Rainy days  : ~80-100
+
+Humidity (%):
+  Average     : ~55-60
+
+Note: Run the script to generate real up-to-date results and plots.
